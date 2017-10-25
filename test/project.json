@@ -1,0 +1,18 @@
+{
+    "framework": "jasmine",
+    "libs": [],
+    "coverageFilters": [],
+    "scenarios": [
+        {
+            "libs": [],
+            "coverageFilters": [],
+            "webdriverContext": "webdriver",
+            "sandbox": true,
+            "globals": "*",
+            "directory": "ContactsApp",
+            "page": "http://senchacontacts.herokuapp.com/?modern#contacts",
+            "name": "ContactsApp"
+        }
+    ],
+    "pageObjects": []
+}
